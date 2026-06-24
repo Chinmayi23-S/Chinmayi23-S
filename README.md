@@ -21,7 +21,7 @@ Strengthening data cleaning, analysis, and visualization skills
 Building a portfolio of dashboards and business insights
 
 Feel free to explore my repositories and follow my learning journey in data analytics
-www.linkedin.com/in/chinmayi-sutar-3a5a50230
+www.linkedin.com/in/chinmayi-sutar
 
 
 ### Hobbies
